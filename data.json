@@ -2,41 +2,49 @@
   {
     "id": 1,
     "title": "Santorini, Greece",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Santorini_sunset.jpg/800px-Santorini_sunset.jpg"
+    "author": "Aegean Sea",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Santorini_sunset.jpg"
   },
   {
     "id": 2,
     "title": "Machu Picchu, Peru",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/800px-Machu_Picchu%2C_Peru.jpg"
+    "author": "Andes Mountains",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
   },
   {
     "id": 3,
-    "title": "Great Wall of China",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mutianyu-Great_Wall-02.jpg/800px-Mutianyu-Great_Wall-02.jpg"
+    "title": "Great Wall, China",
+    "author": "Mutianyu",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mutianyu-Great_Wall-02.jpg"
   },
   {
     "id": 4,
     "title": "Venice, Italy",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Venice_Canal_Grande_and_Santa_Maria_della_Salute.jpg/800px-Venice_Canal_Grande_and_Santa_Maria_della_Salute.jpg"
+    "author": "Canal Grande",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Venice_Canal_Grande_and_Santa_Maria_della_Salute.jpg"
   },
   {
     "id": 5,
     "title": "Mount Fuji, Japan",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mount_Fuji_from_Lake_Kawaguchi.jpg/800px-Mount_Fuji_from_Lake_Kawaguchi.jpg"
+    "author": "Lake Kawaguchi",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mount_Fuji_from_Lake_Kawaguchi.jpg"
   },
   {
     "id": 6,
-    "title": "Banff National Park, Canada",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lake_Louise_17092005.jpg/800px-Lake_Louise_17092005.jpg"
+    "title": "Banff Park, Canada",
+    "author": "Lake Louise",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lake_Louise_17092005.jpg"
   },
   {
     "id": 7,
     "title": "Petra, Jordan",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Petra_Jordan_BW_22.JPG/800px-Petra_Jordan_BW_22.JPG"
+    "author": "Al-Khazneh",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Petra_Jordan_BW_22.JPG"
   },
   {
     "id": 8,
-    "title": "Bora Bora, French Polynesia",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bora_Bora_Beach.jpg/800px-Bora_Bora_Beach.jpg"
-  },
- 
+    "title": "Bora Bora",
+    "author": "French Polynesia",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bora_Bora_Beach.jpg"
+  }
+]
