@@ -3,12 +3,18 @@
     "id": 1,
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
-    "coverUrl": "https://example.com/gatsby.jpg"
+    "coverUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
   },
   {
     "id": 2,
     "title": "1984",
     "author": "George Orwell",
-    "coverUrl": "https://example.com/1984.jpg"
+    "coverUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
   }
 ]
