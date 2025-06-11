@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "title": "Santorini, Greece",
-    "author": "Aegean Sea",
+    "title": "Santorini",
+    "author": "Greece",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Santorini_sunset.jpg"
   },
   {
     "id": 2,
-    "title": "Machu Picchu, Peru",
-    "author": "Andes Mountains",
+    "title": "Machu Picchu",
+    "author": "Peru",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
   },
   {
     "id": 3,
-    "title": "Great Wall, China",
-    "author": "Mutianyu",
+    "title": "Great Wall",
+    "author": "China",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mutianyu-Great_Wall-02.jpg"
   },
   {
     "id": 4,
-    "title": "Venice, Italy",
-    "author": "Canal Grande",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Venice_Canal_Grande_and_Santa_Maria_della_Salute.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Mount Fuji, Japan",
-    "author": "Lake Kawaguchi",
+    "title": "Mount Fuji",
+    "author": "Japan",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mount_Fuji_from_Lake_Kawaguchi.jpg"
   },
   {
+    "id": 5,
+    "title": "Venice",
+    "author": "Italy",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Venice_Canal_Grande_and_Santa_Maria_della_Salute.jpg"
+  },
+  {
     "id": 6,
-    "title": "Banff Park, Canada",
-    "author": "Lake Louise",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lake_Louise_17092005.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Petra, Jordan",
-    "author": "Al-Khazneh",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Petra_Jordan_BW_22.JPG"
-  },
-  {
-    "id": 8,
     "title": "Bora Bora",
     "author": "French Polynesia",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bora_Bora_Beach.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Banff",
+    "author": "Canada",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lake_Louise_17092005.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Petra",
+    "author": "Jordan",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Petra_Jordan_BW_22.JPG"
   }
 ]
