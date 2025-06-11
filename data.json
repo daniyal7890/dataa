@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "coverUrl": "https://example.com/gatsby.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "coverUrl": "https://example.com/1984.jpg"
+  }
+]
