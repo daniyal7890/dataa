@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Santorini",
     "author": "Greece",
-    "coverUrl": "https://img.freepik.com/premium-photo/greece-santorini-island-iconic-view-with-blue-churches-oia-village_287743-185.jpg"
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Santorini_sunset.jpg/640px-Santorini_sunset.jpg"
   },
   {
     "id": 2,
@@ -13,14 +13,14 @@
   },
   {
     "id": 3,
-    "title": "Venice",
-    "author": "Italy",
-    "coverUrl": "https://img.freepik.com/premium-photo/venice-grand-canal-sunset_698953-2594.jpg"
+    "title": "Mount Fuji",
+    "author": "Japan",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mount_Fuji_from_Lake_Kawaguchi.jpg"
   },
   {
     "id": 4,
-    "title": "Mount Fuji",
-    "author": "Japan",
-    "coverUrl": "https://img.freepik.com/premium-photo/mount-fuji-view-with-cherry-blossoms-spring-japan_34152-432.jpg"
+    "title": "Petra",
+    "author": "Jordan",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Petra_Jordan_BW_22.JPG"
   }
 ]
