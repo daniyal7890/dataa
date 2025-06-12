@@ -3,23 +3,24 @@
     "id": 1,
     "title": "Santorini",
     "author": "Greece",
-    "coverUrl": "https://www.google.com/imgres?q=greece%20santorini%20freepik&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fgreece-santorini-island-iconic-view-with-blue-churches-oia-village_287743-185.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fgreat-twilight-view-santorini-island-sunset-famous-oia-city-greece-europe_62235511.htm&docid=HwmGVvJjjIDmvM&tbnid=AKn9z-Ew7vbzoM&vet=12ahUKEwj9nvP6n-yNAxU9if0HHeniLwAQM3oECE4QAA..i&w=626&h=412&hcb=2&ved=2ahUKEwj9nvP6n-yNAxU9if0HHeniLwAQM3oECE4QAA}",
+    "coverUrl": "https://img.freepik.com/premium-photo/greece-santorini-island-iconic-view-with-blue-churches-oia-village_287743-185.jpg"
+  },
   {
     "id": 2,
     "title": "Machu Picchu",
     "author": "Peru",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
+    "coverUrl": "https://img.freepik.com/premium-photo/machu-picchu-peru_93675-13147.jpg"
   },
   {
     "id": 3,
-    "title": "Great Wall",
-    "author": "China",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mutianyu-Great_Wall-02.jpg"
+    "title": "Venice",
+    "author": "Italy",
+    "coverUrl": "https://img.freepik.com/premium-photo/venice-grand-canal-sunset_698953-2594.jpg"
   },
   {
     "id": 4,
     "title": "Mount Fuji",
     "author": "Japan",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mount_Fuji_from_Lake_Kawaguchi.jpg"
-  },
+    "coverUrl": "https://img.freepik.com/premium-photo/mount-fuji-view-with-cherry-blossoms-spring-japan_34152-432.jpg"
+  }
 ]
